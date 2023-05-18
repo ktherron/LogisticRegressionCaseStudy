@@ -1,2 +1,2 @@
 # LogisticRegressionCaseStudy
- Logistic Regression
+ Logistic Regression Predicting Heart Disease
